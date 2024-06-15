@@ -23,7 +23,7 @@ This project implements a real-time face detection system using OpenCV and Media
 
 # Usage
 
-1. Run the face detection script:
+1. Run the main script:
     ```sh
     python main.py
     ```
