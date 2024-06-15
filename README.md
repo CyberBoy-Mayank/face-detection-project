@@ -18,8 +18,7 @@ This project implements a real-time face detection system using OpenCV and Media
 
 2. Install the required dependencies:
     ```sh
-    pip install opencv-python
-    pip install mediapipe
+    pip install -r requirements.txt
     ```
 
 # Usage
@@ -40,6 +39,9 @@ This project implements a real-time face detection system using OpenCV and Media
 - **High Precision**: Accurate detection of facial features even in challenging conditions.
 - **Real-Time Performance**: Suitable for live applications such as video conferencing and security systems.
 - **Easy Integration**: Simple to integrate into larger projects and adaptable for various use cases.
+
+# Note:
+- I'm using **Python Version**: *3.10.2* for this project
 
 # Contributing
 
